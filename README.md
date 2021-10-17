@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 - 🌱 I’m currently learning Python.
 - 📚 Technologies: HTML, CSS, JavaScript, Python.
 - 📫 How to reach me: chatterjeepriyanka988@gmail.com
 - ⚡ Fun fact: I love to listen music.
-
----
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Priyanka | LinkedIn" height="22px" src="https://www.linkedin.com/in/priyanka-chatterjee-6a1866211 />][linkedin]
+- 
 ---
 ### Languages and Tools:
 
