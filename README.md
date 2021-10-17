@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python.
-- 📚 Technologies: HTML,CSS,PYTHON.
+- 📚 Technologies: HTML, CSS, JavaScript, Python.
 - 📫 How to reach me: chatterjeepriyanka988@gmail.com
 - ⚡ Fun fact: I love to listen music.
 
