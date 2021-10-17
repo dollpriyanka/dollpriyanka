@@ -6,6 +6,10 @@
 - ⚡ Fun fact: I love to listen music.
 
 ---
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="left" alt="Priyanka | LinkedIn" height="22px" src="https://www.linkedin.com/in/priyanka-chatterjee-6a1866211 />][linkedin]
+---
 ### Languages and Tools:
 
 [<code>
