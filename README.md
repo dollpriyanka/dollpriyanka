@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there <img src="./Icons/Hi.gif" height="32" />
 
 - 🌱 I’m currently learning Python.
 - 📚 Technologies: HTML, CSS, JavaScript, Python.
