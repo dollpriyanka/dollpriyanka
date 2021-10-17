@@ -62,7 +62,7 @@
 
 ---
 ### GitHub Stats
-<div>
+
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api?username=dollpriyanka&show_icons=true&layout=compact&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css" />
-</div>
+  <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula" />
+
