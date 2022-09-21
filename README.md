@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a Web Developer.
-- 📚 Technologies: Frontend: JavaScript Backend: NodeJs, ExpressJs, MySQL, MongoDB, Language: C++, Python.
+- 📚 Technologies: Frontend: JavaScript Backend: NodeJs, REST API, ExpressJs, MySQL, MongoDB, Language: C++, Python.
 - 📫 How to reach me: chatterjeepriyanka988@gmail.com
 - ⚡ Fun fact: I love to listen music.
 ---
