@@ -68,7 +68,7 @@
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
 </div>
 
-### DSA 🧠 (click to view profile)
+### DSA 🧠
 > [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Priyanka-Chatterjee98_doll/ "Click to view profile")
 >
 > [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Priyanka-Chatterjee98_doll)](https://leetcode.com/Priyanka-Chatterjee98_doll/ "Click to view profile")
