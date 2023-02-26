@@ -70,7 +70,7 @@
 ---
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat)](https://github-profile-trophy.vercel.app/?username=arpitpatawat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll)](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll)
 
 ---
 
