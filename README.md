@@ -69,11 +69,17 @@
 
 ---
 
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&column=8)](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&column=8)
+
+---
+
 ### Editor/IDE 💻
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-
+  
 ### DSA 🧠 Practice
 > [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Priyanka-Chatterjee98_doll/ "Click to view profile")
 >
