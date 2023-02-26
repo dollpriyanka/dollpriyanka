@@ -71,7 +71,7 @@
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&column=8)](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&theme=onedark)](https://github.com/Priyanka-Chatterjee98_doll/github-profile-trophy)
 
 ---
 
