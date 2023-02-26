@@ -71,9 +71,6 @@
 
 ## 🏆 GitHub Trophy
 
-```sh
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll&theme=onedark)](https://github.com/Priyanka-Chatterjee98_doll/github-profile-trophy)
-```
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
