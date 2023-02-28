@@ -61,7 +61,8 @@
 
 ---
 
-<div float="center">
+## 📈 My Stats
+<div>
    <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
 </div>
 <div>
