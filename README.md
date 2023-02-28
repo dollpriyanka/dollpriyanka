@@ -68,6 +68,11 @@
 </div>
 
 ---
+  
+🏆 GitHub Trophy
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll" alt="Priyanka-Chatterjee98_doll" /></a></p>
+  
+---
 
 ### Editor/IDE 💻
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
