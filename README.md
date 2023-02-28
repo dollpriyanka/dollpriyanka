@@ -66,12 +66,18 @@
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api?username=dollpriyanka&show_icons=true&layout=compact&count_private=true&theme=dracula" />
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dollpriyanka&theme=dark" alt="dollpriyanka" /></p>
 
 ---
 
-🏆 GitHub Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dollpriyanka" alt="dollpriyanka" /></a></p>
+<p float="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dollpriyanka&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="419" />
+</p>
+
+
+---
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=dollpriyanka&column=8)](https://github-profile-trophy.vercel.app/?username=dollpriyanka&column=8)
 
 ---
   
