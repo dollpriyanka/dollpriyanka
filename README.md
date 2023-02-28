@@ -66,14 +66,15 @@
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api?username=dollpriyanka&show_icons=true&layout=compact&count_private=true&theme=dracula" />
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dollpriyanka&theme=dark" alt="dollpriyanka" /></p>
 
 ---
-  
+
 🏆 GitHub Trophy
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanka-Chatterjee98_doll" alt="Priyanka-Chatterjee98_doll" /></a></p>
-  
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dollpriyanka" alt="dollpriyanka" /></a></p>
 
+---
+  
 ### Editor/IDE 💻
 > ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
