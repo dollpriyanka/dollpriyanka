@@ -63,7 +63,7 @@
 
 ## 📈 My Stats
 <p float="left">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
+   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollpriyanka&layout=compact&theme=dracula&hide=css&langs_count=6" />
 </p>
 <p float="left">
   <a href="https://github.com/dollpriyanka">
