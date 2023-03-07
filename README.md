@@ -10,7 +10,7 @@
 - 📫 How To Reach Me: **chatterjeepriyanka988@gmail.com**
 
 ---
-### Languages and Tools:
+## Languages and Tools:
 
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
