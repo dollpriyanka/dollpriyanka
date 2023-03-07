@@ -33,6 +33,10 @@
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [<code>
+<img alt="reactjs" width="26px" src="https://img.icons8.com/color/96/000000/reactjs.png">
+</code>](https://www.reactjs.org/)
+
+[<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 
