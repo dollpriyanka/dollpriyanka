@@ -1,10 +1,14 @@
 <h1 align="center">
-    Hello there, I'm Priyanka Chatterjee <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+    Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Priyanka Chatterjee
 </h1>
 
-- 🌱 I’m a Web Developer.
-- 📚 Technologies: Frontend: JavaScript , Backend: NodeJs, REST API, ExpressJs, MySQL, MongoDB, PL/SQL, Language: C++, Python.
-- ⚡ I 🖤 Painting and Singing also💟.
+## 😀 Talking about Personal Stuffs
+
+- 👨🏽‍💻 I'm a **Fullstack** web developer
+- 👨🏽‍💻 Looking For **Full time SDE role**
+- 🌱 I’m Currently Working On **DSA** 
+- 📫 How To Reach Me: **chatterjeepriyanka988@gmail.com**
+
 ---
 ### Languages and Tools:
 
@@ -59,6 +63,10 @@
 [<code>
 <img alt="nodejs" width="26px" src="https://img.icons8.com/color/96/000000/nodejs.png">
 </code>](https://www.nodejs.org/)
+
+[<code>
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/96/000000/mongodb.png">
+</code>](https://www.mongodb.org/)
 
 ---
 
