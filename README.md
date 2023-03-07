@@ -65,6 +65,10 @@
 </code>](https://www.nodejs.org/)
 
 [<code>
+<img alt="reactjs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+</code>](https://reactjs.org/)
+
+[<code>
 <img alt="mongodb" width="26px" src="https://img.icons8.com/color/96/000000/mongodb.png">
 </code>](https://www.mongodb.org/)
 
