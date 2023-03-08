@@ -1,7 +1,9 @@
 <h1 align="center">
     Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Priyanka Chatterjee
 </h1>
+<h3 align="center">A passionate Developer from India</h3>
 
+---
 
 ## 😀 Talking about Personal Stuffs
 
@@ -31,8 +33,16 @@
 </code>](https://www.python.org/)
 
 [<code>
+<img alt="cprogramming" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</code>](https://www.cprogramming.com/)
+
+[<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<code>
+<img alt="express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+</code>](https://www.expressjs.com/)
 
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
