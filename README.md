@@ -2,6 +2,7 @@
     Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Priyanka Chatterjee
 </h1>
 
+
 ## 😀 Talking about Personal Stuffs
 
 - 👨🏽‍💻 I'm a **Fullstack** web developer
@@ -10,11 +11,16 @@
 - 📫 How To Reach Me: **chatterjeepriyanka988@gmail.com**
 
 ---
+
 ## Languages and Tools:
 
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescript.org/)
 
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
@@ -33,12 +39,24 @@
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://www.sass.com/)
+
+[<code>
+<img alt="tailwindcss" width="26px" src="https://img.icons8.com/color/240/000000/tailwindcss.png">
+</code>](https://www.tailwindcss.com/)
+
+[<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+
+[<code>
+<img alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+</code>](https://dev.postgresql.com/)
 
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -59,6 +77,10 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+
+[<code>
+<img alt="redux" width="26px" src="https://img.icons8.com/color/96/000000/redux.png">
+</code>](https://www.redux.org/)
 
 [<code>
 <img alt="nodejs" width="26px" src="https://img.icons8.com/color/96/000000/nodejs.png">
