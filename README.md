@@ -1,7 +1,7 @@
 <h1 align="center">
     Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Priyanka Chatterjee
 </h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 ---
 
@@ -11,6 +11,7 @@
 - 👨🏽‍💻 Looking For **Full time SDE role**
 - 🌱 I’m Currently Working On **DSA** 
 - 📫 How To Reach Me: **chatterjeepriyanka988@gmail.com**
+- ⚡ Fun fact **Stack Overflow is a Programmer's BFF**
 
 ---
 
