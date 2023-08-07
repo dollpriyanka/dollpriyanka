@@ -140,7 +140,7 @@
 ### Contact me ☎ (click to connect)
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-chatterjee-6a1866211/ "Click to connect")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatterjeepriyanka988@gmail.com "Click to connect")
-    
+
     
 <br>
 <div align="center">
