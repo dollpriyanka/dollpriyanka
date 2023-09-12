@@ -115,7 +115,7 @@
 <p float="left">
   <a href="https://github.com/dollpriyanka">
   <img align="center" width="420" height="420" src="https://github-readme-stats.vercel.app/api?username=dollpriyanka&show_icons=true&layout=compact&count_private=true&theme=dracula" />
-  <img align="center" width="420" height="420" src="https://github-readme-streak-stats.herokuapp.com/?user=dollpriyanka&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />  
+<!--   <img align="center" width="420" height="420" src="https://github-readme-streak-stats.herokuapp.com/?user=dollpriyanka&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />   -->
 </p>
 
 ---
