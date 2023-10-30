@@ -9,7 +9,6 @@
 
 - 👨🏽‍💻 I'm a **Fullstack** web developer
 - 👨🏽‍💻 Looking For **Full time SDE role**
-- 👨🏽‍💻 My **Resume** https://resume.io/r/2uXDrHwS0
 - 🌱 I’m Currently Working On **DSA** 
 - 📫 How To Reach Me: **chatterjeepriyanka988@gmail.com**
 - ⚡ Fun fact **Stack Overflow is a Programmer's BFF**
